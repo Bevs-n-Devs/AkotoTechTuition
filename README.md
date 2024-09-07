@@ -32,7 +32,9 @@ For each programming language, I will teach them the following subjects:
 23. Building A Translator
 24. Comments
 25. Try Except
+
 *** Installing Python
+
 26. Reading Files
 27. Writing Files
 28. Modules
