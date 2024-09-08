@@ -16,7 +16,7 @@ print(int_num1)
 print(int_num2)
 print(float_num1)
 print(float_num2)
-
+print()
 
 # You can do basic math in Python using operators:
 # + for addition
@@ -27,6 +27,7 @@ print('Basic Math:')
 
 result = 3 + 5  # addition
 print(result)   # should print 8
+print()
 
 
 # Python follows the standard order of operations (PEMDAS):
@@ -40,10 +41,13 @@ print('Order of Operations:')
 
 result = 3 + 4 * 5   # multiplication happens first
 print(result)        # should print 23
+print()
+
 
 # Change the order using parentheses
 result = (3 + 4) * 5
 print(result)        # should print 35
+print()
 
 
 # The modulus operator % gives the remainder after dividing two numbers.
@@ -52,6 +56,7 @@ print('Modulus Operator:')
 # Example of modulus operator
 remainder = 10 % 3  # 10 divided by 3 gives a remainder of 1
 print(remainder)    # should print 1
+print()
 
 
 # You can store numbers in variables and use them later in calculations.
@@ -59,6 +64,7 @@ print('Storing Numbers in Variables:')
 
 my_num = 15
 print(my_num)       # should print 15
+print()
 
 
 # To use a number in a string, you need to convert it using str().
@@ -71,6 +77,7 @@ print("The number is " + str(my_num))  # should print "The number is 10"
 # SIDENOTE: if we use an f-string in this case we would NOT need to convert it to a string
 # because f-strings automatically converts any value to a string
 print(f'The number is {my_num}')
+print()
 
 
 # Python provides built-in functions to perform common math operations:
@@ -86,6 +93,7 @@ print(pow(2, 3))      # should print 8
 print(max(3, 9, 1))   # should print 9
 print(min(3, 9, 1))   # should print 1
 print(round(4.6))     # should print 5
+print()
 
 
 # You can import additional math functions from Python’s math module.
@@ -97,6 +105,7 @@ from math import floor, ceil, sqrt
 print(floor(4.9))  # should print 4
 print(ceil(4.1))   # should print 5
 print(sqrt(16))    # should print 4.0
+print()
 
 
 
