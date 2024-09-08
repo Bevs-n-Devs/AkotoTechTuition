@@ -50,7 +50,7 @@ print('The total is:', total)
 print()
 
 
-# CHALLENGE
+# VARIABLE CHALLENGE
 print('*'*3, 'VARIABLE CHALLENGE', '*'*3)
 
 # 1. Create a variable called `my_name` and store your name in it, then print out the message.
