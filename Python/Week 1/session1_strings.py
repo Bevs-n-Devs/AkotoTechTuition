@@ -1,5 +1,6 @@
 # Strings
 # TODO: https://www.giraffeacademy.com/programming-languages/python/strings/
+#       https://www.programiz.com/python-programming/online-compiler/
 
 # A string is basically plain text that we use in our code. 
 # Any text you want in your program is stored as a string. 

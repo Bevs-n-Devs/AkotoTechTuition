@@ -1,5 +1,6 @@
 # Variables
 # TODO: https://www.giraffeacademy.com/programming-languages/python/variables/
+#       https://www.programiz.com/python-programming/online-compiler/
 
 
 # A variable is like a container where we can save information to use later in our code. 
