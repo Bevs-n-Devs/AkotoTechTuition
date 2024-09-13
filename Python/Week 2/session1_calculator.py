@@ -3,7 +3,6 @@
 #       https://www.programiz.com/python-programming/online-compiler/
 
 
-# Introduction message
 print("Welcome to the Basic Calculator!")
 
 # 1. Create two input variables where the user can enter numbers.
