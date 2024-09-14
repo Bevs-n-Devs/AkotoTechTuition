@@ -68,10 +68,16 @@ else:
 
 # 3. Advanced Challenge: Add sales tax.
 #    Ask the user for their location and apply a different sales tax rate depending on the location.
-#    For example: 8% for New York, 5% for California, and 7% for Florida.
+#    For example: 8% for London, 5% for Birmingham, and 7% for Manchester.
 #    Print the final total including sales tax using an f-string.
 
 location = input("Where are you located? (London, Birmingham, Manchester): ").lower()
 
 if location == "london":
+    pass
+
+if location == 'birmhingham':
+    pass
+
+if location == 'manchester':
     pass
