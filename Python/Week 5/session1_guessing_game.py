@@ -22,13 +22,11 @@ while guess != fav_colour and not out_of_guesses:
     # Check if the user has reached the guess limit
     if guess_count >= guess_limit:
         out_of_guesses = True  # User is out of guesses
+        break
 
-# 4. Checking the Outcome
-# After exiting the loop, we need to determine if the user won or lost.
-if out_of_guesses:
-    print("Out of guesses, YOU LOSE!")  # User lost the game
-else:
-    print("You WIN!!")  # User guessed correctly
+# 4. Checking if the user won
+if guess == fav_colour:
+    print("You WIN!!")
 
 # 5. Summary
 # In this lesson, we built a guessing game that utilizes a while loop, if statements, and comparison operators
