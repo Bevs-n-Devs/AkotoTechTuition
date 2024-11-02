@@ -44,6 +44,7 @@ For each programming language, I will teach them the following subjects:
 32. Inheritance
 
 **Final 4 Weeks**
+
 33. Introduction to GitHub: Create an account, GitHub commands & clone first repo *(Video Downloader)*!
 34. Creating a simple game with Python: Turtle Race Game
 35. Creating games with PyGame: Pong game
