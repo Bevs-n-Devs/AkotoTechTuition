@@ -42,7 +42,11 @@ For each programming language, I will teach them the following subjects:
 30. Building A Quiz
 31. Class Methods
 32. Inheritance
-33. Creating games with PyGame: Pong game
-34. Creating games with PyGame: Snake game
-35. Introduction to Flask and GitHub
-36. Create a profile page using Flask.
+
+**Final 4 Weeks**
+33. Introduction to GitHub: Create an account, GitHub commands & clone first repo *(Video Downloader)*!
+34. Creating a simple game with Python: Turtle Race Game
+35. Creating games with PyGame: Pong game
+36. Creating games with PyGame: Snake game
+37. Introduction to Flask: Building a basic web app
+38. Create a profile page using Flask.
