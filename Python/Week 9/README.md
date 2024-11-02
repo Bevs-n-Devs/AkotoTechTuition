@@ -1,7 +1,5 @@
 # Introduction To GitHub
 
-this is an example 
-
 ## What is Git?
 - Git is a version control system that runs locally on your computer.
 - It allows you to track changes to your code, create snapshots of your project at different points in time, and manage branches for different versions or features of your project.
