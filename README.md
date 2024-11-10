@@ -47,7 +47,6 @@ For each programming language, I will teach them the following subjects:
 
 33. Introduction to GitHub: Create an account, GitHub commands & clone first repo *(Video Downloader)*!
 34. Creating a simple game with Python: Turtle Race Game
-35. Creating games with PyGame: Pong game
-36. Creating games with PyGame: Snake game
-37. Introduction to Flask: Building a basic web app
-38. Create a profile page using Flask.
+35. Creating games with PyGame: Snake game
+36. Introduction to Flask: Building a basic web app
+37. Create a profile page using Flask.
