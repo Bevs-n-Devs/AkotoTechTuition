@@ -180,16 +180,15 @@ You can find [more commands here](https://github.com/joshnh/Git-Commands) for an
 
 
 ## Cloning Your First Repo!
-This will be a quick example on how to clone an exsiting repository onto your machine.  I have a **Video Downloader** program, 
-which is a Flask Desktop application. This enables you to downlaod YouTube videos onto your laptop/Desktop, and play them locally.
+This will be a quick example on how to clone an exsiting repository onto your machine.  We will clone a **Dino Run** game, which will run locally on your machine.
 ```
 # create empty folder/directory
-new-item video-downloader -type directory           # Windows
-mkdir video-downloader                              # MacOS / Linux
+new-item dino-run -type directory           # Windows
+mkdir dino-run                              # MacOS / Linux
 
 
 # clone the repo
-https://github.com/PythonAkoto/VideoDownloader.git
+https://github.com/CrapTheCoder/PynoRunner.git
 
 
 # create Python virtual environment
